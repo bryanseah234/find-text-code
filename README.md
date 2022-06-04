@@ -11,5 +11,5 @@ NONE
 ## Instructions:
 1. Download code as zip
 2. Unzip file
-3. Run tesseract.exe and install the program
+3. Install tesseract.exe from https://github.com/UB-Mannheim/tesseract/wiki
 4. Run findtext.py
